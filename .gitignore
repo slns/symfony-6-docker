@@ -7,6 +7,7 @@ symfony/config/secrets/prod/prod.decrypt.private.php
 symfony/public/bundles/
 symfony/var/
 symfony/vendor/
-symfony/docker/datbase/data/
-symfony/docker/datbase/data/*
 ###< symfony/framework-bundle ###
+
+docker/datbase/data/
+docker/datbase/data/*
