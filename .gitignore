@@ -9,5 +9,5 @@ symfony/var/
 symfony/vendor/
 ###< symfony/framework-bundle ###
 
-docker/database/data/
+docker/database/data
 docker/database/data/*
