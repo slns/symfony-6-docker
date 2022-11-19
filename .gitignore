@@ -10,3 +10,4 @@ symfony/vendor/
 ###< symfony/framework-bundle ###
 
 docker/database/data/*
+database
